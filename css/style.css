@@ -71,6 +71,7 @@ table{
   background-color: #7e0820;
   text-align: center;
   margin: 0 auto;
+  position: absolute;
 }
 
 .rowhead{
